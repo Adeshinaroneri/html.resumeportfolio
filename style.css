@@ -1,0 +1,137 @@
+html {
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: beige;
+    font-family: "Lilita One", sans-serif;
+}
+
+img {
+    height: 200px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+div {
+    height: 250px;
+    width: 100%;
+
+}
+
+.second {
+    width: 400px;
+    position: absolute;
+    left: 700px;
+}
+
+.name {
+    color: #8E7DBE;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: left;
+    width: 500px;
+
+}
+
+p {
+    text-align: lef;
+    font-size: 20px;
+}
+
+
+.pro {
+    text-align: left;
+    font-size: 19px;
+    color: #8E7DBE;
+}
+
+.alpha {
+    display: inline-block;
+    width: 500px;
+    height: 500x;
+}
+
+.beta {
+    display: inline-block;
+    width: 500px;
+    height: 500x;
+    margin-left: 100px;
+}
+
+.deta {
+    display: inline-block;
+    width: 400px;
+    height: 500x;
+    margin-left: 100px;
+}
+
+h3 {
+    color: black;
+}
+
+h4 {
+    color: black;
+    font-size: 20px;
+}
+
+li {
+    font-size: 19px;
+    color: #8E7DBE;
+}
+
+.nove {
+    margin-left: 40px;
+}
+
+.work {
+    display: inline-block;
+    width: 700px;
+    height: 400px;
+
+}
+
+.digit {
+    display: inline-block;
+    width: 700px;
+    height: 400px;
+    margin-left: 20px;
+}
+
+.osun {
+    height: 200px;
+}
+
+#school {
+    height: 400px;
+}
+
+.list1 {
+    color: black;
+}
+
+.list2 {
+    color: black;
+}
+
+.list3 {
+    color: black;
+}
+
+.cert {
+    width: 500px;
+    height: 200px;
+    position: relative;
+    margin-left: 700px;
+}
+
+.lead {
+    height: 150px;
+}
+
+.footer {
+    height: 20px;
+    width: 300px;
+    position: relative;
+    left: 600px;
+    top: 100px;
+}
